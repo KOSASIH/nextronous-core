@@ -49,7 +49,13 @@
 [![Angular](https://img.shields.io/badge/Angular-12.0.0-blue.svg)](https://angular.io/)
 [![Vue.js](https://img.shields.io/badge/Vue.js-3.0.0-blue.svg)](https://vuejs.org/)
 [![Docker](https://img.shields.io/badge/Docker-20.10.7-blue.svg)](https://www.docker.com/)
-
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-1.21.2-blue.svg)](https://kubernetes.io/)
+[![AWS](https://img.shields.io/badge/AWS-Amazon%20Web%20Services-blue.svg)](https://aws.amazon.com/)
+[![Azure](https://img.shields.io/badge/Azure-Microsoft%20Azure-blue.svg)](https://azure.microsoft.com/)
+[![Google Cloud](https://img.shields.io/badge/Google%20Cloud-Google%20Cloud%20Platform-blue.svg)](https://cloud.google.com/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-5.0.2-blue.svg)](https://www.mongodb.com/)
+[![Redis](https://img.shields.io/badge/Redis-6.2.3-blue.svg)](https://redis.io/)
+[![RabbitMQ](https://img.shields.io/badge/RabbitMQ-3.9.11-blue.svg)](https://www.rabbitmq.com/)
 
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/KOSASIH/nextronous-core">Nextronous</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.linkedin.com/in/kosasih-81b46b5a">KOSASIH</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
 

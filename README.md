@@ -25,6 +25,8 @@
 [![ISO 20000:2018](https://img.shields.io/badge/ISO%2020000:2018-International%20Organization%20for%20Standardization-blue.svg)](https://www.iso.org)
 [![ISO 22301:2019](https://img.shields.io/badge/ISO%2022301:2019-International%20Organization%20for%20Standardization-blue.svg)](https://www.iso.org)
 
+<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/KOSASIH/nextronous-core">Nextronous</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.linkedin.com/in/kosasih-81b46b5a">KOSASIH</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
+
 # nextronous-core
 The nextronous-core repository is the central hub for the Nextronous project's core development, housing the foundational codebase for the universe's most advanced financial innovation.
 

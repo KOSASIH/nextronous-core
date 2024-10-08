@@ -1,0 +1,24 @@
+version: '3'
+
+services:
+  nextronous-core:
+    image: nextronous-core:latest
+    ports:
+      - "8080:8080"
+    environment:
+      - NEXTRONOUS_CORE_VERSION=$NEXTRONOUS_CORE_VERSION
+      - NEXTRONOUS_CORE_BRANCH=$NEXTRONOUS_CORE_BRANCH
+      - NEXTRONOUS_CORE_COMMIT=$NEXTRONOUS_CORE_COMMIT
+    depends_on:
+      - database
+    restart: always
+
+  database:
+    image: postgres:latest
+    environment:
+      - POSTGRES_USER=nextronous
+      - POSTGRES_PASSWORD=nextronous
+      - POSTGRES_DB=nextronous
+    volumes:
+      - ./database:/var/lib/postgresql/data
+    restart: always

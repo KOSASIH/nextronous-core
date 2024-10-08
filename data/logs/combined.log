@@ -1,0 +1,25 @@
+import cache from '../cache/cache';
+import logger from '../logs/logger';
+
+async function getUser(id) {
+  const cachedUser = await cache.get(`user:${id}`);
+  if (cachedUser) {
+    return cachedUser;
+  }
+
+  const user = await database.query(`SELECT * FROM users WHERE id = $1`, [id]);
+  await cache.set(`user:${id}`, user);
+
+  return user;
+}
+
+async function logError(err) {
+  logger.error(err);
+}
+
+// Usage
+getUser(1).then((user) => {
+  console.log(user);
+}).catch((err) => {
+  logError(err);
+});

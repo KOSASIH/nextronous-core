@@ -31,4 +31,4 @@ We welcome contributions to Nextronous Core. To contribute, follow these steps:
 
 ## License
 
-Nextronous Core is licensed under the MIT License.
+Nextronous Core is licensed under the Apache 2.0 License.

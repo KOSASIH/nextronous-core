@@ -9,6 +9,22 @@
 [![GFMA](https://img.shields.io/badge/GFMA-Global%20Financial%20Markets%20Association-blue.svg)](https://www.gfma.org)
 [![IIF](https://img.shields.io/badge/IIF-Institute%20of%20International%20Finance-blue.svg)](https://www.iif.com)
 
+[![ISO 9001:2015](https://img.shields.io/badge/ISO%209001:2015-International%20Organization%20for%20Standardization-blue.svg)](https://www.iso.org)
+[![ISO 27001:2013](https://img.shields.io/badge/ISO%2027001:2013-International%20Organization%20for%20Standardization-blue.svg)](https://www.iso.org)
+[![PCI-DSS](https://img.shields.io/badge/PCI--DSS-Payment%20Card%20Industry%20Data%20Security%20Standard-blue.svg)](https://www.pcisecuritystandards.org)
+[![SOC 2](https://img.shields.io/badge/SOC%202-Service%20Organization%20Control%202-blue.svg)](https://www.aicpa.org)
+[![HIPAA](https://img.shields.io/badge/HIPAA-Health%20Insurance%20Portability%20and%20Accountability%20Act-blue.svg)](https://www.hhs.gov)
+[![GDPR](https://img.shields.io/badge/GDPR-General%20Data%20Protection%20Regulation-blue.svg)](https://www.eugdpr.org)
+[![CCPA](https://img.shields.io/badge/CCPA-California%20Consumer%20Privacy%20Act-blue.svg)](https://www.oag.ca.gov)
+[![SOC 1](https://img.shields.io/badge/SOC%201-Service%20Organization%20Control%201-blue.svg)](https://www.aicpa.org)
+[![SOC 3](https://img.shields.io/badge/SOC%203-Service%20Organization%20Control%203-blue.svg)](https://www.aicpa.org)
+[![FedRAMP](https://img.shields.io/badge/FedRAMP-Federal%20Risk%20and%20Authorization%20Management%20Program-blue.svg)](https://www.fedramp.gov)
+[![NIST Cybersecurity Framework](https://img.shields.io/badge/NIST%20Cybersecurity%20Framework-National%20Institute%20of%20Standards%20and%20Technology-blue.svg)](https://www.nist.gov)
+[![OWASP](https://img.shields.io/badge/OWASP-Open%20Web%20Application%20Security%20Project-blue.svg)](https://www.owasp.org)
+[![CSA STAR](https://img.shields.io/badge/CSA%20STAR-Cloud%20Security%20Alliance%20Security%20Trust%20Assurance%20and%20Risk-blue.svg)](https://www.cloudsecurityalliance.org)
+[![ISO 20000:2018](https://img.shields.io/badge/ISO%2020000:2018-International%20Organization%20for%20Standardization-blue.svg)](https://www.iso.org)
+[![ISO 22301:2019](https://img.shields.io/badge/ISO%2022301:2019-International%20Organization%20for%20Standardization-blue.svg)](https://www.iso.org)
+
 # nextronous-core
 The nextronous-core repository is the central hub for the Nextronous project's core development, housing the foundational codebase for the universe's most advanced financial innovation.
 

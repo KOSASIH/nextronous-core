@@ -1,3 +1,14 @@
+[![IMF](https://img.shields.io/badge/IMF-International%20Monetary%20Fund-blue.svg)](https://www.imf.org)
+[![World Bank](https://img.shields.io/badge/World%20Bank-International%20Bank%20for%20Reconstruction%20and%20Development-blue.svg)](https://www.worldbank.org)
+[![BIS](https://img.shields.io/badge/BIS-Bank%20for%20International%20Settlements-blue.svg)](https://www.bis.org)
+[![FSB](https://img.shields.io/badge/FSB-Financial%20Stability%20Board-blue.svg)](https://www.fsb.org)
+[![IOSCO](https://img.shields.io/badge/IOSCO-International%20Organization%20of%20Securities%20Commissions-blue.svg)](https://www.iosco.org)
+[![BCBS](https://img.shields.io/badge/BCBS-Basel%20Committee%20on%20Banking%20Supervision-blue.svg)](https://www.bis.org/bcbs)
+[![IAIS](https://img.shields.io/badge/IAIS-International%20Association%20of%20Insurance%20Supervisors-blue.svg)](https://www.iaisweb.org)
+[![ISDA](https://img.shields.io/badge/ISDA-International%20Swaps%20and%20Derivatives%20Association-blue.svg)](https://www.isda.org)
+[![GFMA](https://img.shields.io/badge/GFMA-Global%20Financial%20Markets%20Association-blue.svg)](https://www.gfma.org)
+[![IIF](https://img.shields.io/badge/IIF-Institute%20of%20International%20Finance-blue.svg)](https://www.iif.com)
+
 # nextronous-core
 The nextronous-core repository is the central hub for the Nextronous project's core development, housing the foundational codebase for the universe's most advanced financial innovation.
 

@@ -25,6 +25,22 @@
 [![ISO 20000:2018](https://img.shields.io/badge/ISO%2020000:2018-International%20Organization%20for%20Standardization-blue.svg)](https://www.iso.org)
 [![ISO 22301:2019](https://img.shields.io/badge/ISO%2022301:2019-International%20Organization%20for%20Standardization-blue.svg)](https://www.iso.org)
 
+[![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Apache License 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0)
+[![GPLv3 License](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0.en.html)
+[![BSD License](https://img.shields.io/badge/License-BSD-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
+[![AGPL License](https://img.shields.io/badge/License-AGPL-blue.svg)](https://www.gnu.org/licenses/agpl-3.0.en.html)
+[![MPL License](https://img.shields.io/badge/License-MPL-blue.svg)](https://www.mozilla.org/en-US/MPL/)
+[![Unlicense](https://img.shields.io/badge/License-Unlicense-blue.svg)](https://unlicense.org/)
+[![CC0 License](https://img.shields.io/badge/License-CC0-blue.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![WTFPL License](https://img.shields.io/badge/License-WTFPL-blue.svg)](https://en.wikipedia.org/wiki/WTFPL)
+[![Zlib License](https://img.shields.io/badge/License-Zlib-blue.svg)](https://opensource.org/licenses/Zlib)
+[![JSON License](https://img.shields.io/badge/License-JSON-blue.svg)](https://opensource.org/licenses/JSON)
+[![PostgreSQL License](https://img.shields.io/badge/License-PostgreSQL-blue.svg)](https://www.postgresql.org/about/licence/)
+[![MySQL License](https://img.shields.io/badge/License-MySQL-blue.svg)](https://www.mysql.com/about/legal/licensing/)
+[![MongoDB License](https://img.shields.io/badge/License-MongoDB-blue.svg)](https://www.mongodb.com/licensing/server-side-public-license)
+[![Redis License](https://img.shields.io/badge/License-Redis-blue.svg)](https://redis.io/topics/licensing)
+
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/KOSASIH/nextronous-core">Nextronous</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.linkedin.com/in/kosasih-81b46b5a">KOSASIH</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
 
 # nextronous-core

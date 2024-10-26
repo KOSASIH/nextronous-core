@@ -84,6 +84,11 @@
 [![TechCrunch Disrupt Award](https://img.shields.io/badge/TechCrunch-Disrupt%20Award-FF4081?style=flat-square)](https://techcrunch.com/events/disrupt/)
 [![SXSW Innovation Award](https://img.shields.io/badge/SXSW-Innovation%20Award-FF9800?style=flat-square)](https://www.sxsw.com)
 [![Deloitte Technology Fast 500](https://img.shields.io/badge/Deloitte-Fast%20500-2196F3?style=flat-square)](https://www2.deloitte.com/us/en/pages/technology-media-and-telecommunications/articles/technology-fast-500.html)
+[![NASSCOM Innovation Award](https://img.shields.io/badge/NASSCOM-Innovation%20Award-FF5722?style=flat-square)](https://nasscom.in/knowledge-center/publications/nasscom-innovation-awards)
+[![Frost & Sullivan Award](https://img.shields.io/badge/Frost%20&%20Sullivan-Award-4CAF50?style=flat-square)](https://www.frost.com)
+[![G2 Crowd Leader](https://img.shields.io/badge/G2%20Crowd-Leader-00BFFF?style=flat-square)](https://www.g2.com)
+[![CIO Review Award](https://img.shields.io/badge/CIO%20Review-Award-FF9800?style=flat-square)](https://www.cioreview.com)
+[![Red Herring Top 100](https://img.shields.io/badge/Red%20Herring-Top%20100-FF4081?style=flat-square)](https://www.redherring.com/events/2023-top-100-north-america-awards/)
 
 [![Build Status](https://img.shields.io/badge/Build-Passing-green.svg)](https://example.com/build-status)
 [![Test Coverage](https://img.shields.io/badge/Test%20Coverage-90%25-green.svg)](https://example.com/test-coverage)

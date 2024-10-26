@@ -57,6 +57,19 @@
 [![Redis](https://img.shields.io/badge/Redis-6.2.3-blue.svg)](https://redis.io/)
 [![RabbitMQ](https://img.shields.io/badge/RabbitMQ-3.9.11-blue.svg)](https://www.rabbitmq.com/)
 
+## Nextronous project awards and recognition
+
+[![UNESCO Innovation Award](https://img.shields.io/badge/UNESCO-Innovation%20Award-FFCC00?style=flat-square)](https://en.unesco.org/innovation)
+[![WHO Recognition](https://img.shields.io/badge/WHO-Recognized-4B8BBE?style=flat-square)](https://www.who.int/about/who-we-are)
+[![ITU Award](https://img.shields.io/badge/ITU-Award-FF5722?style=flat-square)](https://www.itu.int/en/ITU-T/Pages/default.aspx)
+[![ISO 27001 Certified](https://img.shields.io/badge/ISO%2027001-Certified-00BFFF?style=flat-square)](https://www.iso.org/isoiec-27001-information-security.html)
+[![GPSDD Recognition](https://img.shields.io/badge/GPSDD-Recognized-4CAF50?style=flat-square)](https://www.data4sdgs.org/)
+[![IFAD Award](https://img.shields.io/badge/IFAD-Award-FF9800?style=flat-square)](https://www.ifad.org/en/)
+[![World Bank Innovation Award](https://img.shields.io/badge/World%20Bank-Innovation%20Award-2196F3?style=flat-square)](https://www.worldbank.org/en/about/awards)
+[![International Red Cross Recognition](https://img.shields.io/badge/Red%20Cross-Recognized-FF1744?style=flat-square)](https://www.icrc.org/en)
+[![Global Climate Action Award](https://img.shields.io/badge/Global%20Climate%20Action-Award-8BC34A?style=flat-square)](https://unfccc.int/climate-action)
+[![UN Global Compact](https://img.shields.io/badge/UN%20Global%20Compact-Participant-3F51B5?style=flat-square)](https://www.unglobalcompact.org/)
+
 [![Build Status](https://img.shields.io/badge/Build-Passing-green.svg)](https://example.com/build-status)
 [![Test Coverage](https://img.shields.io/badge/Test%20Coverage-90%25-green.svg)](https://example.com/test-coverage)
 [![Code Quality](https://img.shields.io/badge/Code%20Quality-A-green.svg)](https://example.com/code-quality)

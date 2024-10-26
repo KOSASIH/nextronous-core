@@ -89,6 +89,7 @@
 [![G2 Crowd Leader](https://img.shields.io/badge/G2%20Crowd-Leader-00BFFF?style=flat-square)](https://www.g2.com)
 [![CIO Review Award](https://img.shields.io/badge/CIO%20Review-Award-FF9800?style=flat-square)](https://www.cioreview.com)
 [![Red Herring Top 100](https://img.shields.io/badge/Red%20Herring-Top%20100-FF4081?style=flat-square)](https://www.redherring.com/events/2023-top-100-north-america-awards/)
+[![Best in Biz Awards](https://img.shields.io/badge/Best%20in%20Biz%20Awards-Winner-FF5722?style=flat-square)](https://www.bestinbizawards.com/)
 
 [![Build Status](https://img.shields.io/badge/Build-Passing-green.svg)](https://example.com/build-status)
 [![Test Coverage](https://img.shields.io/badge/Test%20Coverage-90%25-green.svg)](https://example.com/test-coverage)
